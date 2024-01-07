@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # merit_elite
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MeritElite
+>>>>>>> 01dd89702d1168609f0a21e9c4fb86e448bc465c
